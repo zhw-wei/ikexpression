@@ -30,14 +30,7 @@
 		</function>
 	</bean>
 	
-	<!-- 用户函数配置  请在这里定制您自己的函数	
-
-	<bean class="org.wltea.expression.test.TestFunctions">
-		<function name="问好" method="sayHello">
-			<parameter-type>double</parameter-type>
-		</function>
-	</bean>
-	-->
+	<!-- 用户函数配置  请在这里定制您自己的函数 -->
 
 
 </function-configuration>

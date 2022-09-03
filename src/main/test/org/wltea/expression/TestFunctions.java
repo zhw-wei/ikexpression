@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.wltea.expression.test;
+package org.wltea.expression;
 
 /**
  * @author linly

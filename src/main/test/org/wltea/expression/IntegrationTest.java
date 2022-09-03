@@ -1,18 +1,15 @@
-package org.wltea.expression.test;
+package org.wltea.expression;
 
 import java.util.ArrayList;
 
 import org.wltea.expression.ExpressionEvaluator;
-
-import junit.framework.TestCase;
-
 
 /**
  * 整合测试
  * @author 林良益
  *
  */
-public class IntegrationTest extends TestCase {
+public class IntegrationTest {
 	
 	
 	/**
